@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ASCII"?>
+<fragment:ModelFragments xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:basic="http://www.eclipse.org/ui/2010/UIModel/application/descriptor/basic" xmlns:fragment="http://www.eclipse.org/ui/2010/UIModel/fragment" xmi:id="_k5hjoNmwEemf0tkmK3qWcA">
+  <fragments xsi:type="fragment:StringModelFragment" xmi:id="_n-8ccNmwEemf0tkmK3qWcA" featurename="descriptors" parentElementId="org.eclipse.e4.legacy.ide.application">
+    <elements xsi:type="basic:PartDescriptor" xmi:id="_t3DfUNmwEemf0tkmK3qWcA" elementId="project-ex-0917-ast-table-pavlik.partdescriptor.simpletableviewast0917pavlik" label="Simple Table View AST 0917 Pavlik" iconURI="platform:/plugin/project-ex-0917-ast-table-Pavlik/icons/sample.png" contributionURI="bundleclass://project-ex-0917-ast-table-Pavlik/view.Viewer"/>
+  </fragments>
+</fragment:ModelFragments>
